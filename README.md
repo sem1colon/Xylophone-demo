@@ -1,2 +1,2 @@
-# Xylophone-demo
-Xylophone, web app demo.
+# Xylophone
+Web application made with flutter.
